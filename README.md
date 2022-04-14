@@ -5,7 +5,7 @@
 **Kudamasangomai/Kudamasangomai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://www.sitepoint.com/github-profile-readme/#:~:text=Creating%20a%20GitHub%20Profile%20README&text=Log%20in%20to%20GitHub.,username%20of%20your%20GitHub%20account.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 #### Get In touch with me on:
-
+ <br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kudakwashe-masangomai-9b268810b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,11 +26,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/whatsapp-Green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ 
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
  <div>
+   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"  title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
@@ -39,11 +41,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" **alt="Mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS" **alt="VScode" width="40" height="40"/>
- 
+ <br/> <br/>
   </div>
   
-  ### Will be learning this next:
+  ###  :dart: Will be learning this next:
+   
   <div>
+     <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/>
 </div>
+
+
