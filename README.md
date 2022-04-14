@@ -6,6 +6,7 @@
 
 Here are some ideas to get you started:
 https://www.sitepoint.com/github-profile-readme/#:~:text=Creating%20a%20GitHub%20Profile%20README&text=Log%20in%20to%20GitHub.,username%20of%20your%20GitHub%20account.
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,13 +44,18 @@ https://www.sitepoint.com/github-profile-readme/#:~:text=Creating%20a%20GitHub%2
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS" **alt="VScode" width="40" height="40"/>
  <br/> <br/>
   </div>
+ ### Databases:
+  <div>
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Mysql" **alt="Mysql" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" **alt="postgresql" width="100" height="30"/>
+  </div>
   
-  ###  :dart: Will be learning this next:
+  ####  :dart: Will be learning this next:
    
   <div>
      <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Mysql" **alt="Mysql" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vuejs" **alt="Vuejs" width="100" height="30"/>
 </div>
 
 
