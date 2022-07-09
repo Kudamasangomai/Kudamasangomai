@@ -58,12 +58,12 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" **alt="postgresql" width="100" height="30"/>
   </div>
   
-  ####  :dart: Will be learning this next:
+ 
    
   <div>
    
   
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vuejs" **alt="Vuejs" width="100" height="30"/>
+  <!--<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vuejs" **alt="Vuejs" width="100" height="30"/>-->
 </div>
 
 
