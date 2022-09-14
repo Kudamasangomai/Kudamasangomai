@@ -64,7 +64,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <div>
    
   
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Kudamasangomai}&theme=vue">Most Used Languages</a>
+
 </div>
 
 
