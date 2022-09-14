@@ -64,7 +64,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <div>
    
   
-  <!--<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vuejs" **alt="Vuejs" width="100" height="30"/>-->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username={Kudamasangomai}">Most Used Languages</a>
 </div>
 
 
