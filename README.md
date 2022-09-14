@@ -48,7 +48,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="100" height="30"/>  
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Vs" **alt="vs" width="100" height="30"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="bs" **alt="BS" width="100" height="30"/>
-  <img src=" https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" title="bs" **alt="BS" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" title="bs" **alt="BS" width="100" height="30"/>
  <br/><br/>
  
   </div>
