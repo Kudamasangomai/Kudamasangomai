@@ -26,9 +26,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <a href="https://wa.me/263777696355">                                                                    
   <img src="https://img.shields.io/badge/whatsapp-Green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
- <a href="https://twitter.com/KudaMasangomai">
+<!--  <a href="https://twitter.com/KudaMasangomai">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a>
+ </a> -->
  
 </div>
 
