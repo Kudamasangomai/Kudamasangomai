@@ -51,7 +51,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="bs" **alt="BS" width="100" height="30"/>
  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" title="Drf" **alt="Drf" width="100" height="30"/>
   <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" title="Alpine" **alt="Alpine" width="100" height="30"/>
- <br/><br/>
+ <br/>
+  <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" title="LiveWire" **alt="LiveWire" width="100" height="30"/>
  
   </div>
  
