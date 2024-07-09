@@ -52,6 +52,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" title="Alpine" **alt="Alpine" width="100" height="30"/>
  <br/>
   <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" title="LiveWire" **alt="LiveWire" width="100" height="30"/>
+   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" title="FastAPI" **alt="FastAPI" width="100" height="30"/>
  
   </div>
  
