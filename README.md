@@ -40,7 +40,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" title="Codeigniter" alt="Codeigniter" width="100" height="30"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel" **alt="Laravel" width="100" height="30"/>
  
- <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="Wordpress" alt="Wordpress" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" width="100" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="100" height="30"/>
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCss" alt="TailwindCss" width="100" height="30"/>
    <br/>
@@ -63,7 +63,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   </div>
   
  ### Contribution Graph:
-[![Kudamasangomai github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kudamasangomai)](https://github.com/kudamasangomai/github-readme-activity-graph)
+[![Kudamasangomai GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kudamasangomai)](https://github.com/Kudamasangomai/github-readme-activity-graph)
   <div>
    
   
