@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 https://www.sitepoint.com/github-profile-readme/#:~:text=Creating%20a%20GitHub%20Profile%20README&text=Log%20in%20to%20GitHub.,username%20of%20your%20GitHub%20account.
 https://github.com/alexandresanlim/Badges4-README.md-Profile
-- 🔭 I’m currently working on ....
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -62,9 +62,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" **alt="postgresql" width="100" height="30"/>
   </div>
   
-<!-- ### Contribution Graph:
+### Contribution Graph:
 [![Kudamasangomai GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kudamasangomai)](https://github.com/Kudamasangomai/github-readme-activity-graph)
-  -->
+  
   <div>
    
   
